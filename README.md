@@ -1,0 +1,2 @@
+# ramu.txt
+power
